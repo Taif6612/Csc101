@@ -1,0 +1,5 @@
+Name=input("name:")
+course=input('course:')
+section=input('section:')
+id=input('id:')
+print('Welcome {} of course {} and section {}.Your id is {}'.format(Name,course,section,id))
