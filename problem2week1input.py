@@ -1,0 +1,5 @@
+x=input('Name:')
+y=input('Address:')
+z=input('Email:')
+a=input('Phone:')
+print('Your information is as follows\nName:{}\nAddress:{}\nEmail:{}\nPhone:{}'.format(x,y,z,a))
